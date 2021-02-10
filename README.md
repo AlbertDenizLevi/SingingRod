@@ -7,3 +7,10 @@ To access the calculations please use this desmos link https://www.desmos.com/ca
 This project is about making sound by rubbing a cylindirical aluminium rod with resin covered fishing line. But it is also an art project. The stl files form a skeleton to be put around the head of the musician. This multimedia project is closely related to the mandelbrot project as the objective is to bring the mathematical 3d structures to real life and make them enjoyable to the populous. The 3d structures can be 3D printed and put on this skeleton, and the singing rod with its jarring sound can amaze the viewers and be a peephole to the 3D fractals infinite complexity.
 
 There is a powerpoint presentation that explains how the project came to be.
+
+Other desmos calculations;
+https://www.desmos.com/calculator/gjkjgbdf4v?lang=tr // first one
+https://www.desmos.com/calculator/eb0acolqne?lang=tr
+https://www.desmos.com/calculator/gck1z3wnrj?lang=tr
+https://www.desmos.com/calculator/fldpvopumi?lang=tr //one tip open
+https://www.desmos.com/calculator/scunlxcbta?lang=tr //Required length for the limited amount of width for specific frequencies
